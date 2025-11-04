@@ -263,16 +263,5 @@ You can also use **Kafka UI tools** like [Conduktor](https://www.conduktor.io/) 
 **Abhhirram Veedhi**
 Software Developer @ Encora
 💼 Focus: Java | Spring Boot | Microservices | AWS | Kafka
-📧 Email: [abhhirram@example.com](mailto:abhhirram@example.com)
+📧 Email: [abhhirram2003@example.com](mailto:abhhirram2003@example.com)
 🔗 GitHub: [github.com/abhhirramVeedhi](https://github.com/abhhirramVeedhi)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-Would you like me to include a **diagram (architecture + Kafka flow)** in this README as an image (I can generate one for you)?
-It would visually explain how Order, Stock, and Email services interact through Kafka.
