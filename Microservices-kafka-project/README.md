@@ -1,6 +1,4 @@
-Perfect 👍 — here’s a **refined and expanded version** of your README file with a **cleaner structure**, **professional tone**, and **detailed explanations** for every component.
 
----
 
 # 🧩 Spring Boot & Apache Kafka Microservices Application
 
