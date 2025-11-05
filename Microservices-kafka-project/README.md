@@ -126,11 +126,16 @@ This **event-driven communication** ensures that services are **loosely coupled*
 ---
 ## ;) Images (For understanding)
 
+Starting KAFKA
 <img width="1919" height="1016" alt="Screenshot 2025-11-05 145127" src="https://github.com/user-attachments/assets/fd444810-96d0-4860-91f2-48c526f03a2a" />
+Sending message from the Producer side (server)
 <img width="1919" height="1010" alt="Screenshot 2025-11-05 145142" src="https://github.com/user-attachments/assets/f89b6026-9672-40e8-b94b-78433b4e0b23" />
+Checking if message had received in Consumer 
 <img width="1919" height="1019" alt="Screenshot 2025-11-05 145158" src="https://github.com/user-attachments/assets/9627682a-54e2-4705-9f4f-17543fbd2f8e" />
-<img width="1919" height="1015" alt="Screenshot 2025-11-05 145259" src="https://github.com/user-attachments/assets/35d78efd-be14-4741-8b7f-db8a2c2a8e9a" />
+Posting json data using postman 
 <img width="1919" height="1016" alt="Screenshot 2025-11-05 145221" src="https://github.com/user-attachments/assets/9974f037-6966-483e-856d-2c4a3cd91e5a" />
+Data received from postman to eclipse
+<img width="1919" height="1015" alt="Screenshot 2025-11-05 145259" src="https://github.com/user-attachments/assets/35d78efd-be14-4741-8b7f-db8a2c2a8e9a" />
 
 
 
